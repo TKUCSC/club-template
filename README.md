@@ -66,11 +66,11 @@ Software specifications & design documents can be found in the [wiki](/wiki).
 
 ## Contributing
 
-Please [CONTRIBUTING.md](CONTRIBUTING.md) for a in depth view.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for a in depth view.
 
 ## Credits
 
-Please [CREDITS.md](CREDITS.md) for a in depth view.
+Please see [CREDITS.md](CREDITS.md) for a in depth view.
 
 ## License
 
